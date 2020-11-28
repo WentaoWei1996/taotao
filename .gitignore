@@ -1,0 +1,23 @@
+# Project exclude paths
+/taotao-cart/taotao-cart-interface/target/
+/taotao-cart/taotao-cart-service/target/
+/taotao-cart-web/target/
+/taotao-common/target/
+/taotao-content/taotao-content-interface/target/
+/taotao-content/taotao-content-service/target/
+/taotao-item-web/target/
+/taotao-manager/taotao-manager-dao/target/
+/taotao-manager/taotao-manager-interface/target/
+/taotao-manager/taotao-manager-pojo/target/
+/taotao-manager/taotao-manager-service/target/
+/taotao-manager-web/target/
+/taotao-order/taotao-order-interface/target/
+/taotao-order/taotao-order-service/target/
+/taotao-order-web/target/
+/taotao-portal-web/target/
+/taotao-search/taotao-search-interface/target/
+/taotao-search/taotao-search-service/target/
+/taotao-search-web/target/
+/taotao-sso/taotao-sso-interface/target/
+/taotao-sso/taotao-sso-service/target/
+/taotao-sso-web/target/
